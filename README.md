@@ -1,4 +1,4 @@
-# SystemBatch is a chanllenge that i accepted.
+# SystemBatch is a challenge that i accepted.
 I use JDBC, DAO and mysql.
 
 ## **Objective**
